@@ -1,7 +1,7 @@
 # day1-belajar-data-sience
 
-Dalam bahasa pemrograman Python, terdapat beberapa struktur data dasar yang sangat penting untuk dipahami, yaitu *List, **Tuple, dan **Set*.  
-Ketiganya sering digunakan dalam pemrograman, termasuk dalam penerapan *Data Science*, karena berfungsi menyimpan dan mengelola kumpulan data.
+Dalam bahasa pemrograman Python, terdapat beberapa struktur data dasar yang sangat penting untuk dipahami, yaitu "List, Tuple, dan Set/ Dictionary"
+Ketiganya sering digunakan dalam pemrograman, termasuk dalam penerapan "Data Science", karena berfungsi menyimpan dan mengelola kumpulan data.
 
 ## List
 - *List* adalah tipe data yang bersifat *mutable* (dapat diubah).  
