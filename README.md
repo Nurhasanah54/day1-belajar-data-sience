@@ -13,6 +13,7 @@ Ketiganya sering digunakan dalam pemrograman, termasuk dalam penerapan *Data Sci
 - remove() → menghapus elemen.  
 - insert() → menyisipkan elemen di posisi tertentu.  
 - pop() → menghapus elemen berdasarkan indeks.
+## Output
 <img width="839" height="140" alt="Image" src="https://github.com/user-attachments/assets/75c3695f-5c32-48bd-8114-2d028bf9f9fc" /> 
 ## 2. Tuple
 - *Tuple* adalah tipe data yang bersifat *immutable* (tidak bisa diubah setelah dibuat).  
