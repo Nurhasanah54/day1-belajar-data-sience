@@ -3,7 +3,7 @@
 Dalam bahasa pemrograman Python, terdapat beberapa struktur data dasar yang sangat penting untuk dipahami, yaitu *List, **Tuple, dan **Set*.  
 Ketiganya sering digunakan dalam pemrograman, termasuk dalam penerapan *Data Science*, karena berfungsi menyimpan dan mengelola kumpulan data.
 
-## 2. List
+## 1. List
 - *List* adalah tipe data yang bersifat *mutable* (dapat diubah).  
 - Elemen dalam list bisa ditambah, dihapus, atau diubah.  
 - List ditulis dengan tanda kurung siku [].
@@ -14,7 +14,7 @@ Ketiganya sering digunakan dalam pemrograman, termasuk dalam penerapan *Data Sci
 - insert() → menyisipkan elemen di posisi tertentu.  
 - pop() → menghapus elemen berdasarkan indeks.
 - 
-## 3. Tuple
+## 2. Tuple
 - *Tuple* adalah tipe data yang bersifat *immutable* (tidak bisa diubah setelah dibuat).  
 - Data dalam tuple tidak bisa ditambah atau dihapus.  
 - Tuple ditulis dengan tanda kurung biasa ().
@@ -23,7 +23,7 @@ Kegunaan tuple:
 - Cocok digunakan untuk data yang bersifat tetap atau konstan.  
 - Lebih aman karena tidak bisa dimodifikasi.
 
-## 4. Set
+## 3. Set
 - *Set* adalah tipe data yang menyimpan *elemen unik* (tidak boleh ada duplikat).  
 - Set tidak memiliki urutan (unordered).  
 - Ditulis dengan tanda kurung kurawal {}.
@@ -34,7 +34,7 @@ Kegunaan tuple:
 - union() → menggabungkan dua set.  
 - intersection() → mengambil irisan dari dua set.
 
-## 5. Perbandingan List, Tuple, dan Set
+## 4. Perbandingan List, Tuple, dan Set
 
 | Struktur Data | Urutan | Bisa Duplikat? | Bisa Diubah? |
 |---------------|--------|----------------|--------------|
@@ -42,7 +42,7 @@ Kegunaan tuple:
 | *Tuple*     | Ya     | Ya             | Tidak        |
 | *Set*       | Tidak  | Tidak          | Ya           |
 
-## 6. Kesimpulan
+## 5. Kesimpulan
 - Gunakan *List* jika data sering berubah.  
 - Gunakan *Tuple* jika data tetap.  
 - Gunakan *Set* jika ingin data unik tanpa duplikat.  
