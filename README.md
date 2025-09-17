@@ -8,7 +8,7 @@ Ketiganya sering digunakan dalam pemrograman, termasuk dalam penerapan "Data Sci
 - Elemen dalam list bisa ditambah, dihapus, atau diubah.  
 - List ditulis dengan tanda kurung siku [].
   
-*Contoh operasi List:*
+*Contoh metode List:*
 - append() menambah elemen baru.
 - extend() Menambahkan semua elemen dari iterable (list, tuple, set, dll) ke list. 
 - remove() menghapus elemen.  
