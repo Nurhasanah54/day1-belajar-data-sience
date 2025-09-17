@@ -14,7 +14,7 @@ Ketiganya sering digunakan dalam pemrograman, termasuk dalam penerapan *Data Sci
 - insert() → menyisipkan elemen di posisi tertentu.  
 - pop() → menghapus elemen berdasarkan indeks.
 ## Output
-<img width="839" height="140" alt="Image" src="https://github.com/user-attachments/assets/75c3695f-5c32-48bd-8114-2d028bf9f9fc" /> 
+<img width="846" height="125" alt="Image" src="https://github.com/user-attachments/assets/716ce47d-e440-4d67-aad2-ec13444f4cd5" />
 
 ## Tuple
 - *Tuple* adalah tipe data yang bersifat *immutable* (tidak bisa diubah setelah dibuat).  
@@ -38,7 +38,7 @@ Kegunaan tuple:
 - union() → menggabungkan dua set.  
 - intersection() → mengambil irisan dari dua set.
 ## Output
-<img width="846" height="125" alt="Image" src="https://github.com/user-attachments/assets/716ce47d-e440-4d67-aad2-ec13444f4cd5" />
+<img width="839" height="140" alt="Image" src="https://github.com/user-attachments/assets/75c3695f-5c32-48bd-8114-2d028bf9f9fc" /> 
 
 ## Perbandingan List, Tuple, dan Set
 
