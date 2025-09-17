@@ -7,13 +7,13 @@ Ketiganya sering digunakan dalam pemrograman, termasuk dalam penerapan "Data Sci
 - *List* adalah tipe data yang bersifat *mutable* (dapat diubah).  
 - Elemen dalam list bisa ditambah, dihapus, atau diubah.  
 - List ditulis dengan tanda kurung siku [].
-- 
+  
 *Contoh operasi List:*
 - append() → menambah elemen baru.  
 - remove() → menghapus elemen.  
 - insert() → menyisipkan elemen di posisi tertentu.  
 - pop() → menghapus elemen berdasarkan indeks.
-- 
+  
 [Example kode Python](list-tuple-set.py)
 ## Output
 <img width="846" height="125" alt="Image" src="https://github.com/user-attachments/assets/716ce47d-e440-4d67-aad2-ec13444f4cd5" />
