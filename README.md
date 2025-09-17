@@ -13,22 +13,8 @@ Ketiganya sering digunakan dalam pemrograman, termasuk dalam penerapan *Data Sci
 - remove() → menghapus elemen.  
 - insert() → menyisipkan elemen di posisi tertentu.  
 - pop() → menghapus elemen berdasarkan indeks.
-#Penggunaan Program
-print
-buah = ["apel", "jeruk", "mangga"]
-print("Awal:", buah)
-
-buah.append("pisang")  # menambah data
-print("Setelah append:", buah)
-
-buah.remove("jeruk")   # menghapus data
-print("Setelah remove:", buah)
-
-buah.insert(1, "anggur")  # menyisipkan data di index ke-1
-print("Setelah insert:", buah)
-
-print()
-
+- 
+[Klik di sini untuk melihat kode Python](list_tuple_set.py)
 ## Output
 <img width="846" height="125" alt="Image" src="https://github.com/user-attachments/assets/716ce47d-e440-4d67-aad2-ec13444f4cd5" />
 
