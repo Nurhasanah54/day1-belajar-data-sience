@@ -36,6 +36,8 @@ Kegunaan tuple:
 - remove() atau discard() → menghapus elemen.  
 - union() → menggabungkan dua set.  
 - intersection() → mengambil irisan dari dua set.
+## Output
+<img width="846" height="125" alt="Image" src="https://github.com/user-attachments/assets/716ce47d-e440-4d67-aad2-ec13444f4cd5" />
 
 ## 4. Perbandingan List, Tuple, dan Set
 
