@@ -9,11 +9,17 @@ Ketiganya sering digunakan dalam pemrograman, termasuk dalam penerapan "Data Sci
 - List ditulis dengan tanda kurung siku [].
   
 *Contoh operasi List:*
-- append() → menambah elemen baru.  
-- remove() → menghapus elemen.  
-- insert() → menyisipkan elemen di posisi tertentu.  
-- pop() → menghapus elemen berdasarkan indeks.
-  
+- append() menambah elemen baru.
+- extend() Menambahkan semua elemen dari iterable (list, tuple, set, dll) ke list. 
+- remove() menghapus elemen.  
+- insert() menyisipkan elemen di posisi tertentu.
+- clear() Menghapus semua elemen dalam list.
+- index() Mengembalikan indeks dari elemen pertama yang ditemukan dengan nilai tertentu.
+- count() Menghitung jumlah kemunculan elemen tertentu.
+- sort() Mengurutkan elemen list secara ascending (default) atau descending (dengan reverse=True).
+- pop() menghapus elemen berdasarkan indeks.
+- reverse() Membalik urutan elemen list.
+
 [Example kode Python](list-tuple-set.py)
 ## Output
 <img width="846" height="125" alt="Image" src="https://github.com/user-attachments/assets/716ce47d-e440-4d67-aad2-ec13444f4cd5" />
