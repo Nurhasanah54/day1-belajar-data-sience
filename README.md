@@ -14,7 +14,7 @@ Ketiganya sering digunakan dalam pemrograman, termasuk dalam penerapan *Data Sci
 - insert() → menyisipkan elemen di posisi tertentu.  
 - pop() → menghapus elemen berdasarkan indeks.
 - 
-[Klik di sini untuk melihat kode Python](list_tuple_set.py)
+[Klik di sini untuk melihat kode Python](list-tuple-set.py)
 ## Output
 <img width="846" height="125" alt="Image" src="https://github.com/user-attachments/assets/716ce47d-e440-4d67-aad2-ec13444f4cd5" />
 
@@ -26,8 +26,8 @@ Ketiganya sering digunakan dalam pemrograman, termasuk dalam penerapan *Data Sci
 Kegunaan tuple:
 - Cocok digunakan untuk data yang bersifat tetap atau konstan.  
 - Lebih aman karena tidak bisa dimodifikasi.
-  
-[Klik di sini untuk melihat kode Python](list_tuple_set.py)
+
+[Klik di sini untuk melihat kode Python](list-tuple-set.py)
 ## Output
 <img width="845" height="82" alt="Image" src="https://github.com/user-attachments/assets/7a94c452-111d-41a0-a5d1-3caeecd85403" />
 
@@ -42,7 +42,7 @@ Kegunaan tuple:
 - union() → menggabungkan dua set.  
 - intersection() → mengambil irisan dari dua set.
 
-[Klik di sini untuk melihat kode Python](list_tuple_set.py)
+[Klik di sini untuk melihat kode Python](list-tuple-set.py)
 ## Output
 <img width="839" height="140" alt="Image" src="https://github.com/user-attachments/assets/75c3695f-5c32-48bd-8114-2d028bf9f9fc" /> 
 
