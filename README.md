@@ -14,7 +14,7 @@ Ketiganya sering digunakan dalam pemrograman, termasuk dalam penerapan "Data Sci
 - insert() → menyisipkan elemen di posisi tertentu.  
 - pop() → menghapus elemen berdasarkan indeks.
 - 
-[Klik di sini untuk melihat kode Python](list-tuple-set.py)
+[Example kode Python](list-tuple-set.py)
 ## Output
 <img width="846" height="125" alt="Image" src="https://github.com/user-attachments/assets/716ce47d-e440-4d67-aad2-ec13444f4cd5" />
 
